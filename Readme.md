@@ -1,1 +1,1 @@
-Este repositório é para a disciplina de Evolução Química 
+This repository stores the activities from my master´s classes in Chemical Evolution of Galaxies, with professor Jorge Melendez
